@@ -5,4 +5,6 @@
 	<li>Tomcat server set up</li>
 	<li>Jenkins job for maven, deploy set up</li>
 	<li>CI pipeline</li>
+	<li>Ansible playbook to create a docker image</li>
+	<li>Ansible playbook to create a container</li>
 </ul>
